@@ -15,6 +15,6 @@ Anvendt maskinlæring med prosjekt. TDAT3025. Opplastet fra privat repo brukt un
 
 6: dimension reduction
 
-7. unsupervised learning
+7: unsupervised learning
 
 Prosjekt
