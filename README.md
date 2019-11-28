@@ -17,4 +17,4 @@ Anvendt maskinlæring med prosjekt. TDAT3025. Opplastet fra privat repo brukt un
 
 7: unsupervised learning
 
-Prosjekt
+Prosjekt: Reinforcement Learning. Grid-Search på hyperparametere
